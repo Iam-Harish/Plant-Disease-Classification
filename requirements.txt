@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-serving-api==2.5.0
+fastapi[all]
+numpy
+httptools
+gunicorn
+Pillow
+pydantic
+io
+sys
