@@ -7,4 +7,4 @@ gunicorn
 Pillow
 pydantic
 requires.io
-sys
+os-sys
