@@ -6,5 +6,5 @@ httptools
 gunicorn
 Pillow
 pydantic
-io
+requires.io
 sys
