@@ -1,11 +1,9 @@
-tensorflow==2.11
-Pillow==6.0.0
-scipy
-scikit-learn
-matplotlib
-pandas
+tensorflow-cpu
 fastapi
+Pillow
+starlette
+gunicorn
 uvicorn
-gunicorn==19.9.0
-uvloop
+numpy
+python-multipart
  
