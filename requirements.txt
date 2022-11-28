@@ -6,4 +6,4 @@ gunicorn
 uvicorn
 numpy
 python-multipart
- 
+ipython 
