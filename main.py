@@ -11,7 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
  
 # load model
 #filepath = "./saved_model"
-filepath = 'G:/plant disease detection/model/2.h5'
+filepath = 'model/2.h5'
 # model = load_model(filepath, compile=True)
 model = load_model(filepath)
 from IPython.display import FileLink
